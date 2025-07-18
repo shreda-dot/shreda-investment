@@ -96,7 +96,7 @@ img {
 }
 /* hero */
 #hero {
-    background:linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(0, 0, 0, 0.438)), url(../ASSETS/IMAGES/hero.jpg) no-repeat center center/cover;
+    background:linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(0, 0, 0, 0.438)), url(../ASSETS/IMAGES/hero.png) no-repeat center center/cover;
 
     background-position: center;
     background-size: cover;    
